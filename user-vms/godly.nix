@@ -1,5 +1,5 @@
 {
-  github = "godlykmahews";
+  github = "godlykmathews";
   tier = "large";
   enabled = true;
   keys = [
