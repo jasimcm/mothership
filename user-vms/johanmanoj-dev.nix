@@ -1,6 +1,6 @@
 {
   github = "johanmanoj-dev";
-  tier = "medium";
+  tier = "small";
   enabled = true;
 
   keys = [
