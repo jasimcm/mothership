@@ -8,11 +8,6 @@
 
   publish = [
     { port = 3000; }
-    { port = 3001; }
     { port = 3002; }
-    { port = 3003; }
-    { port = 5678; }
-    { port = 4000; }
-    { port = 8080; }
   ];
 }
